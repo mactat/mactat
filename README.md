@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Maciej👋
 
-<!--
-**mactat/mactat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mactat" alt="mactat" /> </p>
 
-Here are some ideas to get you started:
+- 🚢 I'm a full time software engineer at **Maersk**
+- 🔭 I’m currently working on **[Framed Project](https://github.com/mactat/framed)**
+- 🌱 I’m currently learning some **golang**
+- 👯 I’m looking to collaborate on **interesting projects**
+- 🤔 I’m looking for help with my **[Framed Project](https://github.com/mactat/framed)**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/maciej-tatarski)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mactat&show_icons=true" alt="mactat" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mactat&hide=Jupyter%20Notebook&layout=compact" alt="mactat" />
+</p>
